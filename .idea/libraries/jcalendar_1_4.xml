@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jcalendar-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-j-8.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Program Files/Java/ojdbc11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-8.0.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc11-23.3.0.23.09.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-dbutils-1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
